@@ -3,9 +3,9 @@
 
 ### Notebooks
 ---
-- [Understanding the variables](Hollywood data analysis 1 - Understanding Variables.ipynb) :
+- [Understanding the variables](https://github.com/srjit/hollywood-movie-classification/blob/master/Hollywood%20data%20analysis%201%20-%20Understanding%20Variables.ipynb) :
   + Analyze the available variables, their distribution, correlation etc.
-- [Modeling Experiments](Hollywood data analysis 2 - Preprocessing & Modeling.ipynb) :
+- [Modeling Experiments](https://github.com/srjit/hollywood-movie-classification/blob/master/Hollywood%20data%20analysis%202%20-%20Preprocessing%20%26%20Modeling.ipynb) :
   + Preprocessing - One Hot Encoding categorical variables, Vectorizing Text Fields
 	- All features except `year` has been used during the preprocessing and modeling procedure. 
 	- Since the number of rows are less, an 85%-15% of total instances have been used for training and testing respectively.
@@ -17,11 +17,11 @@
 	5. Fusion (Most Voted Class) model: 75.5% one away percentage score on test data
 	
   + Creating a custom classifier that picks the most voted candidate class as the final target
-- [Scoring the New Sheet](Hollywood data analysis 3 - Classify.ipynb) :
+- [Scoring the New Sheet](https://github.com/srjit/hollywood-movie-classification/blob/master/Hollywood%20data%20analysis%203%20-%20Classify.ipynb) :
   + Select the best classifier(s), and use it to classify the instances in the scoring sheet
   + Two sets of predictions using the best performing classifiers. 
-	- [prediction1.csv]()
-	- [prediction2.csv]()
+	- [prediction1.csv](https://github.com/srjit/hollywood-movie-classification/blob/master/prediction1.csv)
+	- [prediction2.csv](https://github.com/srjit/hollywood-movie-classification/blob/master/prediction2.csv)
 
 ### Custom Functions
 ---
