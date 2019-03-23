@@ -27,7 +27,7 @@
 ---
 - [Metrics](metrics.py):
   + Functions that assists the evaluation of a classifier
-	- (Accuracy)[https://github.com/srjit/hollywood-movie-classification/blob/8960301b4daa4c9a93b9da55e981923674257e7f/metrics.py#L10]: Total correctly classified / Total instances.
-	- (Bingo Score)[https://github.com/srjit/hollywood-movie-classification/blob/8960301b4daa4c9a93b9da55e981923674257e7f/metrics.py#L21]: Implementation of bingo score from literature.
-	- (One Away Score)[https://github.com/srjit/hollywood-movie-classification/blob/8960301b4daa4c9a93b9da55e981923674257e7f/metrics.py#L47]: Implementation of one away score from the literature.
+	- [Accuracy](https://github.com/srjit/hollywood-movie-classification/blob/8960301b4daa4c9a93b9da55e981923674257e7f/metrics.py#L10): Total correctly classified / Total instances.
+	- [Bingo Score](https://github.com/srjit/hollywood-movie-classification/blob/8960301b4daa4c9a93b9da55e981923674257e7f/metrics.py#L21): Implementation of bingo score from literature.
+	- [One Away Score](https://github.com/srjit/hollywood-movie-classification/blob/8960301b4daa4c9a93b9da55e981923674257e7f/metrics.py#L47): Implementation of one away score from the literature.
 
